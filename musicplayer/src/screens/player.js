@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Player() {
   return (
-    <div>P</div>
+    <div className='screen-container'>P</div>
   )
 }
