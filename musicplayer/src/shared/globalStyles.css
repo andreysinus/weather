@@ -74,7 +74,7 @@
     
  }
 .ml52{
-    margin-left: 52px;
+    margin-left: 50px;
 }
 .ml20{
     margin-left: 20px;
@@ -96,7 +96,9 @@
  }
  .blockCText{
     font-size: 30px;
+    transition: 0.2s ease-in-out;
  }
+
  .cs{
     display: flex;
     flex-direction: row;
